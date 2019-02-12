@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-lol
+Simulates any number of games of rock-paper-scissors played between two players, and prints the results.
